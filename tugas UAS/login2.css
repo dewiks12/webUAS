@@ -1,0 +1,46 @@
+body {
+  font-family: 'open-sans', sans-serif;
+  background: rgb(240, 238, 237);
+}
+
+h1 {
+  text-align: center;
+  text-transform: 300;
+}
+
+.tulisan_login {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.kotak_login {
+  width: 350px;
+  background: rgb(248, 232, 217);
+  margin: 80px auto;
+  padding: 30px 20px;
+}
+
+label {
+  font-size: 12pt;
+  color: rgb(252, 196, 124);
+}
+
+.form_login {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.tombol_login {
+  background: rgb(253, 124, 124);
+  color: rgb(237, 230, 228);
+  font-size: 11pt;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
